@@ -25,4 +25,3 @@ $pp->attachFiles(['image']);
 $pp->sendEmailTo('fredlepage782@gmail.com'); // ← Your email here
 
 echo $pp->process($_POST);
-?>
