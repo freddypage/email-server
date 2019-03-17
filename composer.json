@@ -1,0 +1,8 @@
+{
+  "name": "email-client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "php":"7.3.3"
+  }
+}
